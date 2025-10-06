@@ -1,4 +1,4 @@
-# Rabge-Based Alarm System
+# Range-Based Alarm System
 Arduino sketch that turns on a red LED and sounds a piezo buzzer whne an object is within a set distance
 
 ## Demo
